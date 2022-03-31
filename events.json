@@ -3,24 +3,27 @@
     {
       "id": 1,
       "title": "Antartica",
+      "description": "Journey into the wild and awe-inspiring continent at the bottom of the world",
       "image": "https://www.msichicago.org/fileadmin/assets/_processed_/1/7/csm_Antarctica_sealpup_ddd5a2b1e0.jpg",
       "meta": {
-        "date": false,
+        "date": "Through May 26",
         "category": "exhibit"
       }
     },
     {
       "id": 2,
-      "title": "Flight and Motion Simulators",
-      "image": "https://www.msichicago.org/fileadmin/assets/_processed_/csm_Flight_Simulators_0025_957520dbd5.jpg",
+      "title": "The Art of the Brick",
+      "description": "Experience the world's largest display of LEGO art",
+      "image": "https://www.msichicago.org/fileadmin/assets/_processed_/7/0/csm__DSC0195-trex-resize_5174a1f303.jpg",
       "meta": {
-        "date": false,
+        "date": "Through Sep 5",
         "category": "experience"
       }
     },
     {
       "id": 3,
       "title": "From Science Fiction to Science Fact",
+      "description": "An out-of-this-world livestream with Nasa scientists and innovators",
       "image": "https://www.msichicago.org/fileadmin/assets/_processed_/9/2/csm_JanetHill-Lunarscape_2a3c86fa0f.png",
       "meta": {
         "date": "20220704",
