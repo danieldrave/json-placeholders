@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Antartica",
+      "image": "https://www.msichicago.org/fileadmin/assets/_processed_/1/7/csm_Antarctica_sealpup_ddd5a2b1e0.jpg",
+      "meta": {
+        "date": false,
+        "category": "exhibit"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Flight and Motion Simulators",
+      "image": "https://www.msichicago.org/fileadmin/assets/_processed_/csm_Flight_Simulators_0025_957520dbd5.jpg",
+      "meta": {
+        "date": false,
+        "category": "experience"
+      }
+    },
+    {
+      "id": 3,
+      "title": "From Science Fiction to Science Fact",
+      "image": "https://www.msichicago.org/fileadmin/assets/_processed_/9/2/csm_JanetHill-Lunarscape_2a3c86fa0f.png",
+      "meta": {
+        "date": "20220704",
+        "category": "event"
+      }
+    }
+  ]
+}
